@@ -10,3 +10,8 @@ def subtract(a, b):
 def multiply(a, b):
     '''Take two numbers as argument and return their product'''
     return a*b
+
+def divide(a, b):
+    '''Takes two arguments a & b, and returns a/b'''
+    return a/b
+
