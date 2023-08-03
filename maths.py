@@ -50,7 +50,11 @@ def divide(a, b):
     return a/b
 
 # This line has been added to test my pre-commit hook.
+<<<<<<< HEAD
 # Test another pre-commit hook, take 25001, working
 # New day, new hook\
 # Does it fail when it should?
 #No it doesnt
+=======
+# Test another pre-commit hook, take 25000
+>>>>>>> parent of da38236 (This one works!)
