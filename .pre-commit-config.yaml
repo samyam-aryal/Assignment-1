@@ -1,0 +1,11 @@
+repos:
+-   repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v3.2.0
+    hooks:
+    -   id: trailing-whitespace
+    -   id: check-yaml
+-   repo: github.com/homebysix/pre-commit-macadmin
+    rev: v
+    hooks:
+    -   id: check-git-config-email
+    -   args: ['fusemachines.com']
