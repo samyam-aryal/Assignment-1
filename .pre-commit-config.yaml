@@ -5,7 +5,7 @@ repos:
     -   id: trailing-whitespace
     -   id: check-yaml
 -   repo: github.com/homebysix/pre-commit-macadmin
-    rev: v
+    rev: v1.12.4
     hooks:
     -   id: check-git-config-email
-    -   args: ['gmail.com']
+    -   args: ["gmail.com"]
