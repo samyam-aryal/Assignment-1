@@ -17,3 +17,5 @@ This repository contains Git Tutorials and assignments! In this task, I learned 
 - [Sample Pre-Commit Hook Scripts](https://github.com/pre-commit/pre-commit-hooks)
 
 
+I also played around with push, pull and revert commands and created branches using the Gitflow template to push changes to develop and feature branches.
+
